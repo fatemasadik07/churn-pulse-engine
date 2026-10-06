@@ -22,12 +22,12 @@ We split our repository into 6 clean, focused directories so everyone on the tea
 
 | Directory | Team Role | Lead | What Gets Built Here |
 | :--- | :--- | :--- | :--- |
-| `core_warehouse/` | Data Engineer | Member 1 | Database tables, SQL scripts, SQLAlchemy setups, and baseline KPI queries. |
-| `feature_factory/` | EDA & Preprocessing | Member 2 | Data cleaning, EDA notebooks, missing value fixes, SMOTE balancing, and feature scaling. |
-| `intelligence_core/` | ML Specialist | Member 3 | XGBoost/Random Forest models, parameter tuning, cost-matrix math, and SHAP breakdowns. |
-| `serving_layer/` | MLOps & API Dev | Member 4 | Experiment tracking with MLflow, FastAPI routes (`/predict`, `/explain`), and Docker setup. |
-| `control_center/` | BI & Dashboard | Member 5 | Streamlit app layout, individual customer lookups, and interactive scenario tools. |
-| `quality_assurance/`| QA & Integration | Member 6 | Pydantic data checks, Pytest test suites, GitHub Actions, and code sanity standards. |
+| `core_warehouse/` | Data Engineer | Malak Mostafa | Database tables, SQL scripts, SQLAlchemy setups, and baseline KPI queries. |
+| `feature_factory/` | EDA & Preprocessing | Menna Ahmed | Data cleaning, EDA notebooks, missing value fixes, SMOTE balancing, and feature scaling. |
+| `intelligence_core/` | ML Specialist | Fatema Sadik | XGBoost/Random Forest models, parameter tuning, cost-matrix math, and SHAP breakdowns. |
+| `serving_layer/` | MLOps & API Dev | Rabab Mohamed | Experiment tracking with MLflow, FastAPI routes (`/predict`, `/explain`), and Docker setup. |
+| `control_center/` | BI & Dashboard | Youssef El-Kholy | Streamlit app layout, individual customer lookups, and interactive scenario tools. |
+| `quality_assurance/`| QA & Integration | Farah Nasser | Pydantic data checks, Pytest test suites, GitHub Actions, and code sanity standards. |
 
 *Built with grit, coffee, and teamwork by 5 girls and 1 guy for our DEPI Capstone!*
 
